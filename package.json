@@ -1,0 +1,28 @@
+{
+  "name": "env",
+  "id": "env",
+  "version": "0.0.1",
+  "description": "User environment variables",
+  "keywords": [ "env", "environment" ],
+  "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
+  "homepage": "https://github.com/Gozala/jetpack-env",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gozala/jetpack-env.git",
+    "web": "https://github.com/Gozala/jetpack-env"
+  },
+  "bugs": {
+    "web": "http://github.com/Gozala/jetpack-env/issues/"
+  },
+  "devDependencies": {
+    "test": ">=0.0.10"
+  },
+  "dependencies": {
+    "graphquire": ">=0.6.1"
+  },
+  "main": "./index.js",
+  "licenses": [{
+    "type" : "MIT",
+    "url" : "http://jeditoolkit.com/LICENSE"
+  }]
+}
